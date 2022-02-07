@@ -21,6 +21,7 @@ export const availableThemes = [
   'transparent_dark',
   'preferred_color_scheme',
   'custom',
+  'mds',
 ] as const;
 
 export type AvailableTheme = typeof availableThemes[number];
