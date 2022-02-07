@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "Preferred color scheme",
   "theme=custom": "Personnalisé (expérimental)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Activer giscus",
   "addTheFollowingScriptTag": "Ajouter le code suivant (tag HTML <code><script></code>) dans le gabarit de vos pages web à l'endroit où vous souhaitez afficher les commentaires. Si un élément HTML possède la classe CSS <code>giscus</code> existe, les commentaires seront à cet endroit.",

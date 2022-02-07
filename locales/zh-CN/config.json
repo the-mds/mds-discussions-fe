@@ -74,6 +74,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "用户偏好的色彩方案",
   "theme=custom": "自定义（实验性）",
+  "theme=mds": "MDS",
 
   "enableGiscus": "启用 giscus",
   "addTheFollowingScriptTag": "在你想让评论出现的位置添加以下 <code><script></code> 标签。但如果已经存在带有 <code>giscus</code> 类的元素，则评论会被放在那里。",

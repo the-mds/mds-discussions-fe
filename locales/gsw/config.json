@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Durchsichtig Dunkel",
   "theme=preferred_color_scheme": "Bevorzugtes Farbprofil",
   "theme=custom": "Benutzerdefiniert (Experimentel)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "giscus aktivieren",
   "addTheFollowingScriptTag": "Füge den folgenden <code><script></code> tag zu der Vorlage deiner Webseite hinzu, in welcher du die Kommentare anzeigen möchtest. Wenn ein Element mit dem Namen <code><giscus></code> existiert werden die Kommentare an dieser Stelle platziert.",

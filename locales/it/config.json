@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Scuro Trasparente",
   "theme=preferred_color_scheme": "Impostazioni preferite del dispositivo",
   "theme=custom": "Personalizzato (sperimentale)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Abilita giscus",
   "addTheFollowingScriptTag": "Aggiungi il seguente tag <code><script></code> al template del tuo sito web in cui desideri che vengano visualizzati i commenti. Se esiste un elemento con la classe <code>giscus</code>, i commenti verranno invece inseriti lì.",

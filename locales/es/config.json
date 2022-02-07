@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "Preferred color scheme",
   "theme=custom": "Custom (experimental)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Habilitar giscus",
   "addTheFollowingScriptTag": "Agregue la siguiente etiqueta <code> <script> </code> a la plantilla de su sitio web donde desea que aparezcan los comentarios. Si existe un elemento con la clase <code> giscus </code>, los comentarios se mostrarán allí.",

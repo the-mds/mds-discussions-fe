@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Gelap Transparan",
   "theme=preferred_color_scheme": "Skema warna pilihan",
   "theme=custom": "Buat sendiri (eksperimental)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Aktifkan giscus",
   "addTheFollowingScriptTag": "Tambahkan tag <code><script></code> berikut ke template halaman web Anda di mana Anda ingin komentarnya muncul. Apabila sudah terdapat elemen dengan kelas <code>giscus</code>, maka komentarnya akan diletakkan di sana.",

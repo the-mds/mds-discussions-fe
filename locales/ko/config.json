@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "Preferred color scheme",
   "theme=custom": "Custom (experimental)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "giscus 활성화",
   "addTheFollowingScriptTag": "아래 <code><script></code> 태그를 댓글 기능을 사용할 웹사이트의 템플릿에 넣으세요. <code>giscus</code> 클래스를 가진 요소가 존재하면, 그 대신에 댓글들이 나타납니다.",

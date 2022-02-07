@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "Предпочитаемая цветовая схема",
   "theme=custom": "Custom (экспериментальная опция)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Включить giscus",
   "addTheFollowingScriptTag": "Добавьте тэг <code><script></code> в шаблон вашего сайта, где бы вы хотели видеть комментарии. Если существует элемент с классом <code>giscus</code>, то комментарии будут размещены вместо него.",

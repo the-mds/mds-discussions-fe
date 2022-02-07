@@ -67,6 +67,7 @@
   "theme=transparent_dark": "Transparent Dark",
   "theme=preferred_color_scheme": "Phối màu ưa thích",
   "theme=custom": "Tùy chỉnh (thử nghiệm)",
+  "theme=mds": "MDS",
 
   "enableGiscus": "Bật giscus",
   "addTheFollowingScriptTag": "Thêm thẻ <code><script></code> sau vào website của bạn nơi bạn muốn comment xuất hiện. Nếu một phần tử có class <code>giscus</code> tồn tại, các comment sẽ được đặt ở đó.",
