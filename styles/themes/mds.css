@@ -129,6 +129,12 @@ a:hover {
   color: rgb(20, 20, 20) !important;
 }
 
+/* This needs removing when Github add the 
+functionality https://github.com/github/feedback/discussions/3968 */
+button[aria-label='Upvote'] {
+  display: none !important;
+}
+
 .btn {
   min-height: 32px !important;
   max-height: 32px !important;
