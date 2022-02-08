@@ -207,3 +207,18 @@ a:hover {
 .color-box-border-info {
   border-radius: 4px !important;
 }
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  font-variation-settings: 'TEXT' 0, 'ital' 0, 'wght' 300 !important;
+  font-weight: 300 !important;
+}
+
+.form-control:focus {
+  border-color: rgb(12, 160, 206) !important;
+  box-shadow: 0 0 0 3px rgb(181, 224, 245) !important;
+}
