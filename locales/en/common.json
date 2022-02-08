@@ -29,7 +29,7 @@
   "genericError": "An error occurred: {{message}}",
   "loadMore": "Load more",
   "loading": "Loading",
-  "loadingComments": "Loading comments…",
+  "loadingComments": "",
   "loadingPreview": "Loading preview…",
   "poweredBy": "– powered by <a>giscus</a>",
   "oldest": "Oldest",
