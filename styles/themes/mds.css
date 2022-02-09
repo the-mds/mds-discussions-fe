@@ -149,6 +149,7 @@ button[aria-label='Upvote'] {
 .btn-primary:active {
   color: #fff !important;
   box-shadow: 0 0 0 3px #b5e0f5 !important;
+  text-decoration: none !important;
 }
 
 .BtnGroup-item {
