@@ -46,7 +46,7 @@ main {
   --color-btn-selected-bg: rgb(207, 207, 207);
   --color-btn-primary-text: #fff;
   --color-btn-primary-bg: #011a2e;
-  --color-btn-primary-border: none;
+  --color-btn-primary-border: #011a2e;
   --color-btn-primary-shadow: none;
   --color-btn-primary-inset-shadow: none;
   --color-btn-primary-hover-bg: #032d59;
@@ -147,6 +147,7 @@ button[aria-label='Upvote'] {
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
+  color: #fff !important;
   box-shadow: 0 0 0 3px #b5e0f5 !important;
 }
 
